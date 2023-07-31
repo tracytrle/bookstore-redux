@@ -21,6 +21,28 @@
       "title": "Fairy tales",
       "year": 1836,
       "id": "A8770585A41"
+    },
+    {
+      "author": "Valmiki",
+      "country": "India",
+      "imageLink": "images/ramayana.jpg",
+      "language": "Sanskrit",
+      "link": "https://en.wikipedia.org/wiki/Ramayana\n",
+      "pages": 152,
+      "title": "Ramayana",
+      "year": -450,
+      "id": "F7BD78CEC493"
+    },
+    {
+      "author": "Geoffrey Chaucer",
+      "country": "England",
+      "imageLink": "images/the-canterbury-tales.jpg",
+      "language": "English",
+      "link": "https://en.wikipedia.org/wiki/The_Canterbury_Tales\n",
+      "pages": 544,
+      "title": "The Canterbury Tales",
+      "year": 1450,
+      "id": "A27E04A8DB17"
     }
   ],
   "books": [
